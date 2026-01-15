@@ -1,0 +1,93 @@
+Qual é o objetivo principal da Norma Regulamentadora NR 10?,"Estabelecer os requisitos e condições mínimas para a implementação de medidas de controle e sistemas preventivos, visando garantir a segurança e a saúde dos trabalhadores que interagem com instalações elétricas."
+A quais fases do sistema elétrico a NR 10 se aplica?,"Aplica-se às fases de geração, transmissão, distribuição e consumo, incluindo todas as etapas de projeto, construção, montagem, operação e manutenção."
+"De acordo com a NR 10, o que deve ser feito em todas as intervenções em instalações elétricas para controlar os riscos?","Devem ser adotadas medidas preventivas de controle do risco elétrico e de outros riscos adicionais, mediante técnicas de análise de risco."
+"Qual é a obrigação das empresas em relação aos esquemas unifilares, segundo o item 10.2.3 da NR 10?","As empresas são obrigadas a manter esquemas unifilares atualizados das instalações elétricas, com as especificações do sistema de aterramento e dispositivos de proteção."
+A partir de qual valor de carga instalada os estabelecimentos devem constituir e manter o Prontuário de Instalações Elétricas (PIE)?,A partir de uma carga instalada superior a 75 kW.
+O que deve constar no Prontuário de Instalações Elétricas (PIE) referente à documentação dos trabalhadores?,"Documentação comprobatória da qualificação, habilitação, capacitação, autorização dos trabalhadores e dos treinamentos realizados."
+Quem deve elaborar os documentos técnicos previstos no Prontuário de Instalações Elétricas (PIE)?,Um profissional legalmente habilitado.
+"Na hierarquia de medidas de proteção coletiva da NR 10, qual é a medida prioritária a ser adotada?",A desenergização elétrica.
+"Quando as medidas de proteção coletiva são inviáveis ou insuficientes, o que a NR 10 determina que deve ser adotado?",Devem ser adotados equipamentos de proteção individual (EPI) específicos e adequados às atividades.
+"Segundo a NR 10, o que é vedado aos trabalhadores durante trabalhos com instalações elétricas ou em suas proximidades?",É vedado o uso de adornos pessoais.
+"Qual é o primeiro passo na sequência obrigatória para considerar uma instalação elétrica desenergizada, conforme a NR 10?",O seccionamento.
+"Na sequência de desenergização da NR 10, qual é o passo que se segue ao 'seccionamento'?",O impedimento de reenergização.
+"Qual é o terceiro passo na sequência de desenergização da NR 10, após o impedimento de reenergização?",A constatação da ausência de tensão.
+"Após constatar a ausência de tensão no processo de desenergização, qual é o próximo passo obrigatório?",A instalação de aterramento temporário com equipotencialização dos condutores.
+Qual é o último passo da sequência de desenergização antes que a instalação seja considerada liberada para trabalho?,A instalação da sinalização de impedimento de reenergização.
+Qual é o primeiro passo a ser executado no processo de reenergização de uma instalação elétrica?,"A retirada das ferramentas, utensílios e equipamentos."
+"No processo de reenergização, o que deve ser feito após a retirada de todos os trabalhadores não envolvidos?","A remoção do aterramento temporário, da equipotencialização e das proteções adicionais."
+A partir de quais níveis de tensão em corrente alternada (CA) e contínua (CC) as intervenções em instalações energizadas só podem ser realizadas por trabalhadores autorizados?,A partir de 50 Volts em corrente alternada (CA) ou 120 Volts em corrente contínua (CC).
+Serviços em instalações elétricas energizadas em Alta Tensão (AT) ou no Sistema Elétrico de Potência (SEP) podem ser realizados individualmente?,"Não, esses serviços não podem ser realizados individualmente."
+O que é necessário para realizar um trabalho em instalações elétricas energizadas em Alta Tensão (AT) ou que interajam com o SEP?,"É necessária uma ordem de serviço específica para data e local, assinada por um superior responsável pela área."
+Qual medida de segurança é obrigatória antes de uma intervenção em instalações elétricas energizadas em AT dentro da zona de risco?,A desativação (bloqueio) dos conjuntos e dispositivos de religamento automático do circuito.
+Definição (NR 10): Trabalhador qualificado.,"É aquele que comprova a conclusão de curso específico na área elétrica, reconhecido pelo Sistema Oficial de Ensino."
+Definição (NR 10): Profissional legalmente habilitado.,É o trabalhador previamente qualificado e com registro no competente conselho de classe.
+Definição (NR 10): Trabalhador capacitado.,"É aquele que recebe capacitação sob orientação de profissional habilitado e autorizado, e trabalha sob a responsabilidade deste."
+Definição (NR 10): Trabalhadores autorizados.,"São os trabalhadores qualificados ou capacitados e os profissionais habilitados, com anuência formal da empresa."
+Com que frequência deve ser realizado o treinamento de reciclagem da NR 10?,"Deve ser realizado bienalmente ou sempre que ocorrerem situações específicas como troca de função, retorno de afastamento superior a três meses, ou modificações significativas nas instalações."
+O que a NR 10 estabelece sobre trabalhos em áreas classificadas?,Devem ser precedidos de treinamento específico e só podem ser realizados mediante permissão para o trabalho com liberação formalizada.
+Os trabalhadores autorizados pela NR 10 devem estar aptos a executar quais ações de emergência?,"Devem estar aptos a executar o resgate, prestar primeiros socorros (especialmente reanimação cardiorrespiratória) e manusear equipamentos de combate a incêndio."
+Definição (NR 10): Direito de Recusa.,É o instrumento que assegura ao trabalhador a interrupção de uma atividade de trabalho por considerar que ela envolve grave e iminente risco para sua segurança e saúde ou a de outras pessoas.
+A NR 10 é aplicável a instalações elétricas alimentadas por qual tipo de tensão?,A NR 10 não é aplicável a instalações elétricas alimentadas por extra-baixa tensão (EBT).
+Definição (NR 10): Alta Tensão (AT).,Tensão superior a 1000 volts em corrente alternada ou 1500 volts em corrente contínua.
+Definição (NR 10): Baixa Tensão (BT).,Tensão superior a 50V CA ou 120V CC e igual ou inferior a 1000V CA ou 1500V CC.
+Definição (NR 10): Extra-Baixa Tensão (EBT).,Tensão não superior a 50 volts em corrente alternada ou 120 volts em corrente contínua.
+"Qual é a carga horária mínima do Curso Básico - Segurança em Instalações e Serviços com Eletricidade, conforme o Anexo III da NR 10?",A carga horária mínima é de 40 horas.
+Qual é o pré-requisito e a carga horária mínima para o Curso Complementar - Segurança no SEP?,"O pré-requisito é ter concluído o curso básico com aproveitamento, e a carga horária mínima é de 40 horas."
+"O que é a Zona Controlada, conforme o glossário e anexo da NR 10?","É o entorno de parte condutora energizada, não segregada, acessível, cuja aproximação só é permitida a profissionais autorizados."
+"O que é a Zona de Risco, conforme o glossário e anexo da NR 10?","É o entorno de parte condutora energizada, não segregada, cuja aproximação só é permitida a profissionais autorizados e com a adoção de técnicas e instrumentos apropriados."
+"Em um projeto elétrico, qual cor deve indicar a posição 'desligado' e qual deve indicar 'ligado' nos dispositivos de manobra?",Verde - 'D' (desligado) e Vermelho - 'L' (ligado).
+"O memorial descritivo de um projeto elétrico deve conter, no mínimo, a especificação das características relativas à proteção contra _____, queimaduras e outros riscos adicionais.",choques elétricos
+Os locais de serviços elétricos e invólucros de equipamentos podem ser utilizados para armazenamento de objetos?,"Não, é expressamente proibido utilizá-los para armazenamento ou guarda de quaisquer objetos."
+"Para que a capacitação de um trabalhador tenha validade, ela deve ser realizada sob responsabilidade de um _____ e _____.",profissional habilitado e autorizado
+A capacitação de um trabalhador só terá validade para a _____ que o capacitou.,empresa
+Todo trabalhador em instalações elétricas energizadas em AT deve dispor de equipamento que permita a _____ permanente com a equipe ou centro de operação.,comunicação
+"Os equipamentos e ferramentas isolantes destinados ao trabalho em alta tensão devem ser submetidos a testes elétricos periódicos, no mínimo, com que frequência na ausência de especificações?",Anualmente.
+O que o responsável pela execução do serviço deve fazer ao verificar uma condição de risco não prevista e que não pode ser eliminada imediatamente?,Deve suspender as atividades.
+"Operações elementares, como ligar e desligar circuitos em baixa tensão, podem ser realizadas por qualquer pessoa não advertida, desde que os equipamentos estejam em _____.",perfeito estado de conservação
+Definição (NR 10): Sistema Elétrico de Potência (SEP).,"É o conjunto das instalações e equipamentos destinados à geração, transmissão e distribuição de energia elétrica até a medição, inclusive."
+O Prontuário de Instalações Elétricas (PIE) deve permanecer à disposição de quem?,Dos trabalhadores envolvidos nas instalações e serviços em eletricidade.
+"As medidas de controle adotadas pela NR 10 devem integrar-se às demais iniciativas da empresa no âmbito da preservação da segurança, da _____ e do _____ do trabalho.","saúde, meio ambiente"
+"Para uma faixa de tensão nominal de 132 kV a <150 kV, quais são os raios de delimitação (Rr e Rc) para as zonas de risco e controlada?","Rr = 1,20 metros e Rc = 3,20 metros."
+"Para uma faixa de tensão nominal inferior a 1 kV, qual é o raio de delimitação da zona controlada (Rc)?","O raio de delimitação (Rc) é de 0,70 metros."
+Definição (NR 10): Trabalho em Proximidade.,"Trabalho durante o qual o trabalhador pode entrar na zona controlada, ainda que com parte do corpo ou com extensões condutoras que manipule."
+Qual Norma Regulamentadora rege a sinalização de segurança que deve ser adotada nas instalações e serviços em eletricidade?,A NR-26 - Sinalização de Segurança.
+"Os procedimentos de trabalho, o treinamento e a autorização devem ter a participação de qual serviço da empresa, quando houver?",Do Serviço Especializado de Engenharia de Segurança e Medicina do Trabalho (SESMT).
+Toda equipe de trabalho em instalações elétricas deverá ter um de seus membros indicado para exercer a _____ e condução dos trabalhos.,supervisão
+Definição (NR 10): Riscos Adicionais.,"Todos os demais grupos ou fatores de risco, além dos elétricos, que possam afetar a segurança e a saúde no trabalho (ex: altura, confinamento, umidade)."
+A quem cabe a responsabilidade de propor e adotar medidas preventivas e corretivas na ocorrência de acidentes de trabalho envolvendo eletricidade?,Cabe à empresa.
+"Qual é uma das principais responsabilidades dos trabalhadores, conforme a alínea 'c' do item 10.13.4 da NR 10?","Comunicar, de imediato, ao responsável pela execução do serviço as situações que considerar de risco."
+"Em caso de não cumprimento da NR 10, qual outra NR estabelece as providências a serem adotadas pelo MTE (Ministério do Trabalho e Emprego)?","A NR-03, que trata de Embargo ou Interdição."
+"Para que servem os dispositivos de desligamento de circuitos especificados no projeto elétrico, segundo o item 10.3.1?",Devem possuir recursos para impedimento de reenergização e para sinalização de advertência com indicação da condição operativa.
+"Os projetos elétricos devem assegurar que as instalações proporcionem iluminação adequada e uma posição de trabalho segura, de acordo com qual outra NR?",Com a NR 17 - Ergonomia.
+Os ensaios e testes elétricos de comissionamento de instalações só podem ser realizados por trabalhadores que atendam a quais condições?,"Às condições de qualificação, habilitação, capacitação e autorização estabelecidas na NR 10."
+Definição (NR 10): Impedimento de Reenergização.,"Condição que garante a não energização do circuito através de recursos e procedimentos apropriados, sob controle dos trabalhadores."
+A autorização concedida pela empresa ao trabalhador deve estar em conformidade com o quê?,"Deve estar em conformidade com o treinamento ministrado, previsto no Anexo III da NR 10."
+O que deve ser feito sempre que inovações tecnológicas forem implementadas em trabalhos com instalações energizadas?,"Devem ser previamente elaboradas análises de risco, desenvolvidas com os circuitos desenergizados."
+As ações de emergência envolvendo eletricidade devem constar em qual documento da empresa?,Devem constar no plano de emergência da empresa.
+"As vestimentas de trabalho devem ser adequadas às atividades, contemplando quais três características principais?","A condutibilidade, a inflamabilidade e as influências eletromagnéticas."
+O que a NR 10 estabelece sobre processos ou equipamentos que podem gerar ou acumular eletricidade estática?,Devem dispor de proteção específica e dispositivos de descarga elétrica.
+Definição (NR 10): Aterramento Elétrico Temporário.,"Ligação elétrica efetiva, confiável e intencional à terra, destinada a garantir a equipotencialidade durante a intervenção na instalação."
+"Além dos diagramas unifilares, o que o Prontuário de Instalações Elétricas (PIE) deve conter sobre inspeções?",A documentação das inspeções e medições do sistema de proteção contra descargas atmosféricas e aterramentos elétricos.
+"Empresas que operam no SEP devem acrescentar ao PIE, além dos itens básicos, a descrição dos procedimentos para _____ e as certificações dos equipamentos de proteção.",emergências
+"Qual é o objetivo de um sistema de identificação de autorização de trabalhadores, conforme o item 10.8.5?",Permitir que a qualquer tempo se conheça a abrangência da autorização de cada trabalhador.
+"Os trabalhadores com atividades não relacionadas à eletricidade, mas que atuam na vizinhança da zona controlada, devem ser formalmente _____.",instruídos com conhecimentos que permitam identificar e avaliar seus possíveis riscos
+"Segundo a NR 10, o que deve ser feito antes de iniciar trabalhos em equipe?","Os membros da equipe e o responsável devem realizar uma avaliação prévia, estudar e planejar as atividades no local."
+"Na ausência de normas técnicas oficiais, a NR 10 determina a observância de quais normas?",As normas internacionais cabíveis.
+"As medidas de controle adotadas devem _____ às demais iniciativas da empresa no âmbito da preservação da segurança, da saúde e do meio ambiente do trabalho.",integrar-se
+"Na impossibilidade de desenergização ou do emprego de tensão de segurança, qual medida de proteção coletiva pode ser utilizada?","Outras medidas como isolação das partes vivas, obstáculos, barreiras ou sinalização."
+Todo projeto deve prever condições para a adoção de _____ temporário.,aterramento
+O projeto elétrico deve ser assinado por quem?,Por um profissional legalmente habilitado.
+"Serviços em instalações elétricas devem ser precedidos de _____ específicas, aprovadas por trabalhador autorizado.",ordens de serviço
+"Trabalhadores autorizados devem ser submetidos a _____ compatível com as atividades, em conformidade com a NR 7.",exame de saúde
+Definição (NR 10): Área Classificada.,Local com potencialidade de ocorrência de atmosfera explosiva.
+"Na sequência de reenergização, qual é o último passo a ser executado?","O destravamento, se houver, e a religação dos dispositivos de seccionamento."
+"A alteração dos procedimentos de desenergização e reenergização só pode ser feita por profissional habilitado e autorizado, mediante o quê?","Mediante justificativa técnica previamente formalizada, mantendo o mesmo nível de segurança."
+A alternância de atividades deve considerar a análise de riscos das tarefas e a _____ dos trabalhadores envolvidos.,competência
+As empresas devem promover ações de controle de riscos originados por _____ em suas instalações elétricas.,outrem (terceiros)
+O que a documentação prevista na NR 10 deve estar permanentemente?,À disposição dos trabalhadores que atuam em serviços e instalações elétricas.
+O que o manual de auxílio da NR 10 define como 'operações elementares'?,"Ações simples e corriqueiras que não exponham a risco as pessoas que as realizam, como ligar interruptores ou conectar plugs."
+"Qual o conceito de responsabilidade solidária, segundo o manual da NR 10?","Tanto a empresa contratante quanto as contratadas são responsáveis pelo cumprimento da norma, com base na culpa 'in eligendo' (na escolha) e 'in vigilando' (na fiscalização)."
+"No curso básico de 40h da NR 10, qual é um dos tópicos obrigatórios relacionados a emergências?","Primeiros socorros, com noções sobre lesões, priorização do atendimento, respiração artificial e massagem cardíaca."
+"No curso complementar do SEP, qual é um dos riscos típicos a serem abordados?","Riscos como proximidade e contatos com partes energizadas, indução, descargas atmosféricas, estática e campos elétricos e magnéticos."
+O que a figura do Anexo II da NR 10 representa com a sigla 'PE'?,PE representa o Ponto da instalação energizado.
+"De acordo com o Anexo II da NR 10, o acesso à Zona de Risco (ZR) é restrito a quem?","É restrito a trabalhadores autorizados e com a adoção de técnicas, instrumentos e equipamentos apropriados ao trabalho."
