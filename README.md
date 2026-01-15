@@ -73,6 +73,3 @@ Utilize estes prompts no chat do NotebookLM para extrair o melhor das suas fonte
 
 ---
 
-**Dica de Ouro:** Use o recurso de **"Audio Overview"** (Deep Dive) do NotebookLM para criar um "podcast" automático sobre a sua pasta de NR10. É excelente para revisar os conceitos enquanto você dirige ou pratica esportes!
-
-**Gostaria que eu gerasse um questionário de simulado com 10 perguntas baseadas nos tópicos da NR10 para você testar seus conhecimentos?**
